@@ -1,0 +1,2 @@
+﻿# Aplicación PhotoPaint
+Esta aplicación centrada en la edición de imágenes, ha sido implementada en C++ usando el IDE QtCreator. Para la manipulación de imágenes se utiliza la librería OpenCV. En la documentación se detalla lo más importante de la aplicación.
